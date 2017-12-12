@@ -1,0 +1,22 @@
+
+                                  HOW TO PLAY
+     ......................................................................
+     .                                                                    .
+     .   Snate is not your typical  snake.  He grows not by eating meat,  .
+     .   but by eating the letters of the alphabet!                       .
+     .                                                                    .
+     .   To proceed to the next level, you  must help  Snate  in eating   .
+     .   the right letters to complete the current level's goal: a word,  .
+     .   a phrase, or sentence.                                           .
+     .                                                                    .
+     .   Guide Snate  to the wide array of  letters that  appear  in the  .
+     .   different places on the screen. He will grow in size as he eats  .
+     .   the right letter. The game ends when he eats the wrong letter.   .
+     .                                                                    .
+     .   KEYS:                                                            .
+     .                                                                    .
+     .   1) Press the ARROW KEYS to move around the screen.               .
+     .   2) To go back to the menu screen, press ESC.                     .
+     .   3) To pause, press the SPACE BAR.                                .
+     .                                                                    .
+     ......................................................................
